@@ -1,0 +1,17 @@
+.banner {
+  background-image: url(../../images/background.png);
+  height: 85vh;
+  object-fit: cover;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.banner-details h1 {
+  color: white;
+}
+
+.banner-details p {
+  color:#8C8E8F;
+  font-size: 20px;
+}

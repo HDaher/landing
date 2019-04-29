@@ -1,0 +1,27 @@
+.card img {
+  width: 100px;
+  height: 100px;
+}
+
+.card p {
+  color:#8C8E8F;
+}
+
+.card {
+  width: 200px;
+  padding: 20px;
+  height: 250px;
+  box-shadow: 1px 2px 5px rgba(0,0,0,0.2);
+}
+
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
